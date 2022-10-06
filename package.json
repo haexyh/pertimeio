@@ -1,0 +1,20 @@
+{
+  "name": "pertimeio",
+  "version": "0.0.1",
+  "description": "enhanced persionio",
+  "main": "background.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pascal K.",
+  "license": "MIT",
+  "devDependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "@types/chrome": "^0.0.197"
+  }
+}
